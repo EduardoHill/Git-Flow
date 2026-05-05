@@ -3,3 +3,23 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.title {
+  text-align: center;
+  width: 100%;
+  margin-top: 64px;
+  background: #F9FAFB;
+  padding: 16px;
+}
+.sobreNos{
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  color: #1E2939;
+  margin-bottom: 16px;
+}
+.sobreNosP {
+  font-weight: 400;
+  font-size: 16px;
+  color: #4A5565;
+}
