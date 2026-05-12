@@ -1,31 +1,32 @@
-.container {
-  max-width: 1099px;
+.container-sobreNos {
+  width: 100%;
   margin: 0 auto;
+  padding: 10px;
 }
-.title {
+.title-sobreNos {
   text-align: center;
   width: 100%;
   margin-top: 64px;
   background: #f9fafb;
   padding: 16px;
 }
-.sobreNos {
+.sobreNos-sobreNos {
   font-family: 'Inter', sans-serif;
   font-weight: 700;
   font-size: 36px;
   color: #1e2939;
   margin-bottom: 16px;
 }
-.sobreNosP {
+.sobreNosP-sobreNos {
   font-weight: 96;
   font-size: 16px;
   color: #4a5565;
 }
-.sobreNosP2 {
+.sobreNosP2-sobreNos {
   width: 506.9px;
   padding: 8px;
 }
-.sobreNosP2 p {
+.sobreNosP2-sobreNos p {
   font-family: Inter, sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -33,7 +34,7 @@
   letter-spacing: -0.31px;
 }
 
-.nossaHistoria {
+.nossaHistoria-sobreNos {
   display: flex;
   justify-content: center;
   background: #ffffff;
@@ -43,7 +44,7 @@
   gap: 48px;
 }
 
-.nossaHistoriaTitle {
+.nossaHistoriaTitle-sobreNos {
   font-family: 'Inter', sans-serif;
   font-weight: 700;
   font-size: 30px;
@@ -51,18 +52,18 @@
   margin-bottom: 24px;
 }
 
-.nh {
+.nh-sobreNos {
   padding-top: 16px;
 }
 
-.card2 {
+.card2-sobreNos {
   display: flex;
   flex-direction: column;
   padding: 16px 8px;
   margin: 38px;
 }
 
-.cardphoto {
+.cardphoto-sobreNos {
   width: 509px;
   background-color: #e5e7eb;
   display: flex;
@@ -71,36 +72,36 @@
   height: 320px;
   border-radius: 10px;
 }
-.cardphoto img {
+.cardphoto-sobreNos img {
   width: 60px;
   height: 60px;
 }
-.nossosValores {
+.nossosValores-sobreNos {
   text-align: center;
   justify-content: center;
   background: #f9fafb;
   margin-top: 64px;
   align-items: center;
 }
-.nossosValoresH2 {
+.nossosValoresH2-sobreNos {
   font-family: 'Inter', sans-serif;
   font-weight: 700;
   font-size: 30px;
   color: #1e2939;
   padding-bottom: 48px;
 }
-.card3 {
+.card3-sobreNos {
   display: flex;
   justify-content: center;
   padding: 16px 8px;
   gap: 68px;
 }
-.card3 div {
+.card3-sobreNos div {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-.card3 h3 {
+.card3-sobreNos h3 {
   font-family: inter sans-serif;
   font-weight: 700;
   font-style: bold;
@@ -108,7 +109,7 @@
   color: #1e2939;
   margin: 16px 0 12px 0;
 }
-.card3 p {
+.card3-sobreNos p {
   font-family: inter sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -117,11 +118,11 @@
   letter-spacing: -0.31px;
   padding: 0 8px;
 }
-.nossosValores img {
+.nossosValores-sobreNos img {
   width: 26.38px;
   height: 36px;
 }
-.sombraIcon {
+.sombraIcon-sobreNos {
   background-color: #dbeafe;
   width: 64px;
   height: 64px;
