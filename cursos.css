@@ -1,0 +1,115 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+}
+
+.tittle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #155DFC;
+    color: white;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    height: 208px;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 1024px;
+    margin-top: 64px;
+}
+.cardsalign{
+    display: flex;
+    height: 100%;
+    gap: 16px;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 334px;
+    height: 444px;
+    box-shadow: 5px 5px 10px #88888862;
+    border-radius: 8px;
+}
+
+.bg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 334px;
+    height: 192px;
+    border-radius: 8px 8px 0px 0px;
+    color: white;
+}
+.html{
+    background: #FF6900;
+}
+.css{
+    background: #2B7FFF;
+}
+
+.js{
+    background: #F0B100;
+}
+.git{
+    background: #FB2C36;
+}
+
+.bg p{
+    font-size: 60px;
+}
+
+.descs{
+    display: flex;
+    flex-direction: column;
+    width: 334px;
+    height: 252px;
+    margin-top: 24px;
+    margin-left: 24px;
+}
+
+.desc{
+    margin-top: 8px;
+    color: gray;
+}
+
+.details{
+    display: flex;
+    justify-content: space-between;
+    margin: 16px 0px 16px 0px;
+    color: gray;
+    width: 286px;
+}
+
+.btn{
+    margin-bottom: 24px;
+    color: white;
+    height: 40px;
+    width: 286px;
+    border-radius: 10px;
+    border: none;
+}
+
+.why{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 388px;
+    padding: 64px 0px 64px 0px;
+}
+ 
